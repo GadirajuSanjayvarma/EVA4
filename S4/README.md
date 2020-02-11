@@ -9,7 +9,7 @@ Process of developing model:
     So as the size is very less we can do two convolution blocks to obtain good accuracy
     Here I started with 32 kernals  and continued the 32 kernlas for the first convolution block
     This type of method is mostly followed by state of art networks
-    Next i used 1x1 kernal to decrease my no of channels from 32 to 16
+    Next i used maxpooling followed by 1x1 kernal to decrease my no of channels from 32 to 16
     After i developed the next convolution block with using 16 kernals.
     It is actually beneficial for using kernals in multiple of 8
     So my primary aim is to develop a model of less than 20,000 parameters
