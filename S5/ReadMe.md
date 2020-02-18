@@ -4,7 +4,7 @@
 * B Sridevi - sridevi.b@vishnu.edu.in
 * Abhinav Dayal - abhinav.dayal@vishnu.edu.in
 * A. Lakshmana Rao - 18pa1a0511@vishnu.edu.in
-* Sanjay Varma G - 18pa1a1211@vishnu.edu.in
+* Gadiraju Sanjay varma - 18pa1a1211@vishnu.edu.in
 
 
 ## First Model
@@ -124,20 +124,4 @@
 
 ### Analysis
 * We pushed the model to achieve target with approx 6000 Parameters
-* Drop in accuracy was predicted because of making the training more difficult. But still we met the target.
-
-
-
-
-  *COLAB FILE LINKS:
-  
-  *1)https://colab.research.google.com/drive/11vEILkzCEsFBR23eHuvjO1B-hDo4iKPX
-  
-  *2)https://colab.research.google.com/drive/1PCKXs-jwt-NZG3HPej1Boab2m-g_M64f
-  
-  *3)https://colab.research.google.com/drive/1v5dsyyYdgy3g9G27_ECZ7epwGar3t-xs#scrollTo=xMCFxeAKOB53
-  
-  *4)https://colab.research.google.com/drive/19EDovgI6iVaoyjukwz2_Foe3SL9Qa7vf#scrollTo=ubQL3H6RJL3h
-  
-  *5)https://colab.research.google.com/drive/1zh6Pmn1HtrVEolqKojB_tARDRGgzxHWh#scrollTo=ubQL3H6RJL3h
-  
+* Drop in accuracy was predicted because of making the training more difficult. But still 
