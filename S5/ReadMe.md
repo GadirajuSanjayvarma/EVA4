@@ -106,22 +106,3 @@
 ### Analysis
 * As expected the cyclic LR worked better.
 * Can increase dropouts more to further bump up the challenge. We are happy to be below 8000. But we can try to push the model further.
-
-## Bonus Model -- pushing the limits
-
-[File Link](https://github.com/abhinavdayal/EVA4/blob/master/S5/EVA4_S5_06.ipynb)
-
-### Target
-* Less than 7000 parameters
-* Less than 15 epochs
-* Test with Cyclic LR
-* Add small dropout of 5%
-
-### Results
-* Number of Parameters = 6202 + 140 non trainable BN params
-* Best Train Accuracy = 98.97
-* Best Test Accuracy = 99.45
-
-### Analysis
-* We pushed the model to achieve target with approx 6000 Parameters
-* Drop in accuracy was predicted because of making the training more difficult. But still 
