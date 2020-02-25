@@ -1,3 +1,8 @@
+# Team Members(Size=1):
+#  Name=Gadiraju Sanjay varma
+#  Email:18pa1a1211@vishnu.edu.in
+
+
 ## * *25 Misclassfied images found in model training using L1 regularization * *
 ![](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S6/Images/Misclassified%20in%20L1.png)
 
