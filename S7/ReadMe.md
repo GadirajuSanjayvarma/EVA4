@@ -23,4 +23,4 @@ We did all the required things:
 4)We used RandomRotation() and horizontal flip() in order to get best test accuracy.
 5)we can also reduce the no of parameters to get best accuracy.
 6)we used dilated and depthwise seperable convolutions in our model.
-7)our model final receptive field reaches around 70
+7)our model final receptive field reaches  70
