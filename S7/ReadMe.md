@@ -1,5 +1,5 @@
 # S7
-# Receptive field calculation are written in eva4models.py file in eva4 library github[link](https://github.com/GadirajuSanjayvarma/EVA4/tree/master/S7/Eva4%20library)
+# Receptive field calculation are written in eva4models.py file Cifar10 class in eva4 library github [link](https://github.com/GadirajuSanjayvarma/EVA4/tree/master/S7/Eva4%20library)
 #Team members(4):
 
   1)Name:Gadiraju Sanjay varma
