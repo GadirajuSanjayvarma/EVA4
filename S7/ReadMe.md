@@ -1,6 +1,8 @@
 # S7
 #Team members(4):
+
   1)Name:Gadiraju Sanjay varma
+  
     Email:18pa1a1211@vishnu.edu.in
   2)Name:Abhinav Dayal
     Email:abhinav.dayal@vishnu.edu.in
@@ -8,6 +10,7 @@
     Email:sridevi.b@vishnu.edu.in
   4)Name:A.Lakshman Rao
     Email:18pa1a0511@vishnu.edu.in
+#REceptive field calculation are written in eva4models.py file in eva4 library
 We did all the required things:
 
 1. We started with 400K odd parameters with 1 dilated conv in parallel and two depth separated conv. Got 80+ accuracy in 5th Epoch [link](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S7/EVA04_S7_.ipynb)
