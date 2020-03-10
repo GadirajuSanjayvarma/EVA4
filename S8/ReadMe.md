@@ -17,3 +17,4 @@
 We did all the required things:
 
 1. We copied the resnet block in our API and ran our code.We got above 85% accuracy in Epoch 8.
+2.The file where we copied the model is ![link](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S8/Eva4%20library/eva4models.py)
