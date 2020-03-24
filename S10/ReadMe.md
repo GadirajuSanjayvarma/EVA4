@@ -19,10 +19,10 @@
 * We implemented Gradcam using help from [this library](https://github.com/kazuto1011/grad-cam-pytorch).
 # changes to library (https://github.com/GadirajuSanjayvarma/EVA4/tree/master/S10/EVA4_LIBRARY-master)
 
-* added gradcam functionality
-* added Albumentation transforms
-*Used reduce lr on plateau
-*added gradcam functionality for misclassified images
-*implemented lr finder
-*implemented curve for test and train accuracy
+* added gradcam functionality.
+* added Albumentation transforms.
+*Used reduce lr on plateau.
+*added gradcam functionality for misclassified images.
+*implemented lr finder.
+*implemented curve for test and train accuracy.
 
