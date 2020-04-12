@@ -16,6 +16,7 @@
 # S11
 
 [Link to assignment](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S11/EVA4_S11_FILE1.ipynb)
+ [Link to model names as newResnst11](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S11/EVA4_LIBRARY-master/EVA4/eva4models1.py)
 # changes to library (https://github.com/GadirajuSanjayvarma/EVA4/tree/master/S11/EVA4_LIBRARY-master/EVA4)
 
 * added one cyclic lr functionality.
@@ -29,5 +30,7 @@
 * obtained test_accuracy about 90%
 
 * completed code which produces cycle lr
+
+
 
 
