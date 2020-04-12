@@ -15,8 +15,8 @@
 
 # S11
 
-[Link to assignment](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S10/Eva4_S10_File1.ipynb)
-# changes to library (https://github.com/GadirajuSanjayvarma/EVA4/tree/master/S10/EVA4_LIBRARY-master)
+[Link to assignment](https://github.com/GadirajuSanjayvarma/EVA4/blob/master/S11/EVA4_S11_FILE1.ipynb)
+# changes to library ()
 
 * added one cyclic lr functionality.
 
