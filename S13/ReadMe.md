@@ -17,6 +17,7 @@
 
 # completed opencv execution of yolo
 # completed yolo custom training on gun detection dataset
+# link to yolo custom training https://github.com/GadirajuSanjayvarma/YoloV3
 
 
 
