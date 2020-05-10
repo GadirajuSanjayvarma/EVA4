@@ -44,7 +44,7 @@
 
 ## Sample images
 
-![sample](sample.jpg)
+![sample](https://github.com/abhinavdayal/EVA4/blob/master/S14/sample.jpg)
 
 
 ## Process of Image Generation
@@ -101,7 +101,7 @@ Still, the process was nice and we would like to document the same.
 * We used Segmentation from [this colab](https://colab.research.google.com/github/lexfridman/mit-deep-learning/blob/master/tutorial_driving_scene_segmentation/tutorial_driving_scene_segmentation.ipynb)
 * For our background images it gave results like shown below
 
-![segmentation key](segmentationkey.png)
+![segmentation key](https://github.com/abhinavdayal/EVA4/blob/master/S14/segmentationkey.png)
 
 Our initial BG images with degmentation and depths can be found [here](https://drive.google.com/open?id=1ZLqkr_oY4xGK-Vhdvjr_BLGVEewcEsi3).
 
@@ -139,20 +139,20 @@ Rather than running depth for every generated image whiich would have taken time
 
 ### segmentation examples
 
-![segmentations](segmentation.jpg)
+![segmentations](https://github.com/abhinavdayal/EVA4/blob/master/S14/segmentation.jpg)
 
 ### Generated image samples
 
-![promising results](good.png)
+![promising results](https://github.com/abhinavdayal/EVA4/blob/master/S14/good.png)
 
 ## Results that were not good
 
-![not good results](notgood.png)
+![not good results](https://github.com/abhinavdayal/EVA4/blob/master/S14/notgood.png)
 
 ## Bonus: Occlusion detection
 We tried to detect occlusion by taking pixels from segmentation of person or vehicle that has its start from after the Y coordinate of fg placement. The third and fourth image below describe how it worked. But the accuracy was not as good in all cases as the segmentation map was noisy.
 
-![bonus](attempt.jpg)
+![bonus](https://github.com/abhinavdayal/EVA4/blob/master/S14/attempt.jpg)
 
 However, this experiment led us to conclusion that we had to modify some of oour background images to a simpler kind of background to get better segmentation as well as better depth calculation.
 
